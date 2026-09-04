@@ -7,7 +7,7 @@ about:
   head: fcd2ffd
   archived: false
   latestVersion: v4.6.3
-  collectedAt: 2026-09-04T19:57:37Z
+  collectedAt: 2026-09-04T20:43:06Z
 timeline:
   created: 2016-06-03
   lastCommit: 2026-09-04
@@ -89,6 +89,119 @@ total:
   openIssue: 2390
   commit: 27122
 ---
+path: /home/runner/.x-repo/github.com/jupyterlab/jupyterlab
+collectedAt: 2026-09-04T20:43:22Z
+loc:
+  TypeScript:
+    code: 186586
+    comments: 57159
+    blanks: 28295
+    files: 907
+  Json:
+    code: 30022
+    comments: 0
+    blanks: 5
+    files: 503
+  Tsx:
+    code: 27590
+    comments: 8068
+    blanks: 3495
+    files: 99
+  Css:
+    code: 11392
+    comments: 2122
+    blanks: 2463
+    files: 222
+  Python:
+    code: 11258
+    comments: 661
+    blanks: 2370
+    files: 81
+  JavaScript:
+    code: 5127
+    comments: 1668
+    blanks: 746
+    files: 259
+  Svg:
+    code: 960
+    comments: 4
+    blanks: 0
+    files: 152
+  Html:
+    code: 803
+    comments: 144
+    blanks: 238
+    files: 37
+  Sh:
+    code: 561
+    comments: 134
+    blanks: 161
+    files: 7
+  Toml:
+    code: 497
+    comments: 48
+    blanks: 76
+    files: 8
+  Jupyter:
+    code: 451
+    comments: 854
+    blanks: 476
+    files: 35
+  PowerShell:
+    code: 53
+    comments: 18
+    blanks: 22
+    files: 2
+  Yaml:
+    code: 51
+    comments: 9
+    blanks: 2
+    files: 1
+  Makefile:
+    code: 45
+    comments: 13
+    blanks: 11
+    files: 2
+  Batch:
+    code: 42
+    comments: 1
+    blanks: 11
+    files: 1
+  Dockerfile:
+    code: 37
+    comments: 9
+    blanks: 17
+    files: 1
+  Bash:
+    code: 20
+    comments: 12
+    blanks: 10
+    files: 1
+  Autoconf:
+    code: 12
+    comments: 0
+    blanks: 3
+    files: 3
+  Xml:
+    code: 1
+    comments: 4
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 20633
+    blanks: 6436
+    files: 177
+  Text:
+    code: 0
+    comments: 386
+    blanks: 9
+    files: 4
+total:
+  code: 278174
+  comments: 93129
+  blanks: 45508
+  files: 2503
 ---
 date: "2026-08-24"
 repo:
