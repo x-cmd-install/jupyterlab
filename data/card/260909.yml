@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.6.3"
   latestRelease: "v4.6.3"
   latestPrerelease: "v4.7.0a1"
-  collectedAt: 2026-09-09T06:12:14Z
+  collectedAt: 2026-09-09T20:40:21Z
 timeline:
   created: 2016-06-03
   lastCommit: 2026-09-08
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-08-10
   lastPrerelease: 2026-07-21
 popularity:
-  star: 15289
+  star: 15293
   watcher: 300
   fork: 4092
   release: 281
   contributor: 650
-  pullRequest: 9894
-  issue: 9285
+  pullRequest: 9895
+  issue: 9286
 language:
   TypeScript: 9064697
   Python: 444387
@@ -39,60 +39,60 @@ recent:
     since: 2026-08-10
     release: 1
     mergedPR: 24
-    openPR: 41
+    openPR: 42
     closedIssue: 7
-    openIssue: 17
+    openIssue: 18
     commit: 23
   last60d:
     since: 2026-07-11
     release: 4
     mergedPR: 83
-    openPR: 65
+    openPR: 66
     closedIssue: 20
-    openIssue: 28
+    openIssue: 29
     commit: 91
   last90d:
     since: 2026-06-11
     release: 9
     mergedPR: 155
-    openPR: 76
+    openPR: 77
     closedIssue: 39
-    openIssue: 39
+    openIssue: 40
     commit: 183
   last180d:
     since: 2026-03-13
     release: 15
     mergedPR: 352
-    openPR: 106
+    openPR: 107
     closedIssue: 99
-    openIssue: 74
+    openIssue: 75
     commit: 474
   last360d:
     since: 2025-09-14
     release: 35
     mergedPR: 720
-    openPR: 167
+    openPR: 168
     closedIssue: 241
-    openIssue: 140
+    openIssue: 141
     commit: 875
   last720d:
     since: 2024-09-19
     release: 71
     mergedPR: 1250
-    openPR: 187
+    openPR: 188
     closedIssue: 547
-    openIssue: 273
+    openIssue: 274
     commit: 982
 total:
   release: 281
   mergedPR: 8611
-  openPR: 224
+  openPR: 225
   closedIssue: 6896
-  openIssue: 2389
+  openIssue: 2390
   commit: 27124
 ---
 path: /home/runner/.x-repo/github.com/jupyterlab/jupyterlab
-collectedAt: 2026-09-09T06:12:44Z
+collectedAt: 2026-09-09T20:40:58Z
 loc:
   TypeScript:
     code: 186775
