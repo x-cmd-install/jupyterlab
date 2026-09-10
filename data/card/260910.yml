@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.6.3"
   latestRelease: "v4.6.3"
   latestPrerelease: "v4.7.0a1"
-  collectedAt: 2026-09-10T21:41:34Z
+  collectedAt: 2026-09-10T22:08:03Z
 timeline:
   created: 2016-06-03
   lastCommit: 2026-09-10
@@ -92,7 +92,7 @@ total:
   commit: 27127
 ---
 path: /home/runner/.x-repo/github.com/jupyterlab/jupyterlab
-collectedAt: 2026-09-10T21:42:02Z
+collectedAt: 2026-09-10T22:08:33Z
 loc:
   TypeScript:
     code: 186856
