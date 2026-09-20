@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 11685,
       "digest": "sha256:8fca47bfedd501b7e7f8970a4f0701c52c47be07fc57e9348c27442b2d0f6d5d",
-      "download_count": 37,
+      "download_count": 39,
       "created_at": "2026-08-10T18:49:49Z",
       "updated_at": "2026-08-10T18:49:49Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.3/asset_shas.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 28319771,
       "digest": "sha256:2e3db6e3a12495ebd188276e985bf5ac502fbde3d1e8628819920210008de498",
-      "download_count": 125,
+      "download_count": 127,
       "created_at": "2026-08-10T18:49:06Z",
       "updated_at": "2026-08-10T18:49:08Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.3/jupyterlab-4.6.3.tar.gz"
@@ -4027,7 +4027,7 @@
       "state": "uploaded",
       "size": 331,
       "digest": "sha256:4ac972ccf27fe85493bc2965539dde4b24b64f91ba9dd055cb307c6bcb335082",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-08-10T17:57:41Z",
       "updated_at": "2026-08-10T17:57:41Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.3/metadata.json"
