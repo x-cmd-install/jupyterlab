@@ -4,7 +4,7 @@
 
 JupyterLab computational environment.
 
-![jupyterlab](https://repo.x-cmd.io/jupyterlab.svg)
+[![x-cmd/install — jupyterlab Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jupyterlab.svg)](https://x-cmd.com/install/jupyterlab)
 
 ## Install
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.6.3` (2026-08-10)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-19
 - **Assets in release**: 111
 
 ## Popularity
 
-- **Stars**: 15,304 · **Forks**: 4,097 · **Open issues**: 9,295 · **Contributors**: 654
+- **Stars**: 15,306 · **Forks**: 4,103 · **Open issues**: 9,298 · **Contributors**: 655
 
 ## Totals (cumulative)
 
-- **Releases**: 281 · **Merged PRs**: 8641 · **Open PRs**: 216 · **Closed issues**: 6913 · **Open issues**: 2382 · **Commits**: 27144
+- **Releases**: 281 · **Merged PRs**: 8642 · **Open PRs**: 217 · **Closed issues**: 6918 · **Open issues**: 2380 · **Commits**: 27145
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 33 | 29 | 12 | 12 | 55 |
-| last60d | 2026-07-20 | 4 | 92 | 51 | 28 | 25 | 106 |
-| 90d | 2026-06-20 | 6 | 157 | 67 | 43 | 35 | 192 |
-| last180d | 2026-03-22 | 15 | 367 | 97 | 108 | 68 | 495 |
-| 360d | 2025-09-23 | 34 | 735 | 159 | 244 | 132 | 889 |
-| last720d | 2024-09-28 | 70 | 1272 | 179 | 553 | 264 | 992 |
+| 30d | 2026-08-21 | 0 | 33 | 29 | 15 | 10 | 49 |
+| last60d | 2026-07-22 | 1 | 80 | 50 | 28 | 25 | 103 |
+| 90d | 2026-06-22 | 6 | 154 | 68 | 45 | 35 | 158 |
+| last180d | 2026-03-24 | 15 | 367 | 97 | 110 | 68 | 472 |
+| 360d | 2025-09-25 | 34 | 731 | 160 | 246 | 132 | 870 |
+| last720d | 2024-09-30 | 70 | 1272 | 180 | 555 | 264 | 993 |
 
 ## Release assets
 
@@ -190,4 +190,4 @@ Install metadata for jupyterlab lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:23:12Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:13:07Z._
