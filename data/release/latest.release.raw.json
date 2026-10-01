@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 17171596,
       "digest": "sha256:15b13f991d3985129c797eb84d9949eeb8b6615e14b444868e642411f2c418b2",
-      "download_count": 38,
+      "download_count": 40,
       "created_at": "2026-09-21T15:23:27Z",
       "updated_at": "2026-09-21T15:23:28Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-4.6.4-py3-none-any.whl"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 28335647,
       "digest": "sha256:404f49b081819378524886c9db66dba57a5565981eff885830df1baba3a17df5",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-09-21T15:23:14Z",
       "updated_at": "2026-09-21T15:23:16Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-4.6.4.tar.gz"
@@ -3991,7 +3991,7 @@
       "state": "uploaded",
       "size": 21381,
       "digest": "sha256:50ae7a32f2482f3f7724f38797d52ef8a20826e25b7c48213a035e1410be0d02",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-21T15:23:48Z",
       "updated_at": "2026-09-21T15:23:48Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-workspaces-extension-4.6.4.tgz"
