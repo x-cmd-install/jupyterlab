@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.7.0a2` (2026-09-21)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-07
 - **Assets in release**: 111
 
 ## Popularity
 
-- **Stars**: 15,339 · **Forks**: 4,115 · **Open issues**: 9,321 · **Contributors**: 659
+- **Stars**: 15,342 · **Forks**: 4,120 · **Open issues**: 9,322 · **Contributors**: 659
 
 ## Totals (cumulative)
 
-- **Releases**: 284 · **Merged PRs**: 8689 · **Open PRs**: 237 · **Closed issues**: 6931 · **Open issues**: 2390 · **Commits**: 27181
+- **Releases**: 284 · **Merged PRs**: 8690 · **Open PRs**: 239 · **Closed issues**: 6931 · **Open issues**: 2391 · **Commits**: 27182
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 3 | 64 | 35 | 17 | 19 | 81 |
-| last60d | 2026-08-08 | 4 | 101 | 67 | 31 | 30 | 113 |
-| 90d | 2026-07-09 | 7 | 162 | 82 | 44 | 40 | 181 |
-| last180d | 2026-04-10 | 18 | 382 | 114 | 106 | 71 | 493 |
-| 360d | 2025-10-12 | 34 | 749 | 179 | 240 | 140 | 897 |
-| last720d | 2024-10-17 | 71 | 1296 | 200 | 549 | 266 | 1007 |
+| 30d | 2026-09-08 | 3 | 63 | 36 | 17 | 20 | 82 |
+| last60d | 2026-08-09 | 4 | 100 | 66 | 31 | 31 | 114 |
+| 90d | 2026-07-10 | 7 | 160 | 83 | 44 | 41 | 182 |
+| last180d | 2026-04-11 | 18 | 382 | 116 | 106 | 71 | 494 |
+| 360d | 2025-10-13 | 34 | 746 | 181 | 240 | 141 | 898 |
+| last720d | 2024-10-18 | 71 | 1295 | 202 | 547 | 267 | 1007 |
 
 ## Release assets
 
@@ -190,4 +190,4 @@ Install metadata for jupyterlab lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:04:16Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:25:20Z._
