@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 17171596,
       "digest": "sha256:15b13f991d3985129c797eb84d9949eeb8b6615e14b444868e642411f2c418b2",
-      "download_count": 49,
+      "download_count": 50,
       "created_at": "2026-09-21T15:23:27Z",
       "updated_at": "2026-09-21T15:23:28Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-4.6.4-py3-none-any.whl"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 28335647,
       "digest": "sha256:404f49b081819378524886c9db66dba57a5565981eff885830df1baba3a17df5",
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2026-09-21T15:23:14Z",
       "updated_at": "2026-09-21T15:23:16Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-4.6.4.tar.gz"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 11211,
       "digest": "sha256:53c6c58f3b73e410df30e93ae36667706e7197685b4161786427656186a49d33",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-21T15:23:17Z",
       "updated_at": "2026-09-21T15:23:17Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-inspector-4.6.4.tgz"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 7003,
       "digest": "sha256:4215321f04b8dce8ef9a94397e2f15e533493647651742e3ff476b5c0063389e",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-09-21T15:23:19Z",
       "updated_at": "2026-09-21T15:23:19Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-inspector-extension-4.6.4.tgz"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 2921,
       "digest": "sha256:15409f5e10781a86d547ac503a04309d26a8743a68189d696ea7cec2ccfb8e71",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-09-21T15:23:07Z",
       "updated_at": "2026-09-21T15:23:08Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-javascript-extension-4.6.4.tgz"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 8390,
       "digest": "sha256:f9c48b4fbbe3d9c73c210cf59c286e1241ae2883c37eeceba1f6319219c5fa9a",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-21T15:22:46Z",
       "updated_at": "2026-09-21T15:22:47Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-json-extension-4.6.4.tgz"
