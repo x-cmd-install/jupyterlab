@@ -26,7 +26,7 @@ Total: **281,048** lines of code across **1825** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.8 / 10**
+Overall score: **6.9 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.7.0a2` (2026-09-21)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-13
 - **Assets in release**: 111
 
 ## Popularity
 
-- **Stars**: 15,358 · **Forks**: 4,127 · **Open issues**: 9,335 · **Contributors**: 661
+- **Stars**: 15,360 · **Forks**: 4,127 · **Open issues**: 9,335 · **Contributors**: 661
 
 ## Totals (cumulative)
 
-- **Releases**: 284 · **Merged PRs**: 8700 · **Open PRs**: 242 · **Closed issues**: 6936 · **Open issues**: 2399 · **Commits**: 27191
+- **Releases**: 284 · **Merged PRs**: 8701 · **Open PRs**: 245 · **Closed issues**: 6936 · **Open issues**: 2399 · **Commits**: 27192
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 3 | 52 | 45 | 14 | 27 | 64 |
-| last60d | 2026-08-14 | 3 | 93 | 68 | 28 | 38 | 119 |
-| 90d | 2026-07-15 | 7 | 160 | 88 | 46 | 49 | 178 |
-| last180d | 2026-04-16 | 18 | 375 | 122 | 107 | 79 | 493 |
-| 360d | 2025-10-18 | 33 | 748 | 184 | 237 | 144 | 894 |
-| last720d | 2024-10-23 | 71 | 1304 | 205 | 548 | 270 | 1011 |
+| 30d | 2026-09-14 | 3 | 50 | 47 | 13 | 27 | 65 |
+| last60d | 2026-08-15 | 3 | 94 | 69 | 28 | 38 | 120 |
+| 90d | 2026-07-16 | 7 | 157 | 91 | 46 | 48 | 179 |
+| last180d | 2026-04-17 | 18 | 374 | 125 | 106 | 79 | 494 |
+| 360d | 2025-10-19 | 33 | 749 | 187 | 237 | 144 | 895 |
+| last720d | 2024-10-24 | 71 | 1305 | 208 | 548 | 269 | 1012 |
 
 ## Release assets
 
@@ -190,4 +190,4 @@ Install metadata for jupyterlab lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T08:02:13Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T06:08:50Z._
