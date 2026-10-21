@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 17171596,
       "digest": "sha256:15b13f991d3985129c797eb84d9949eeb8b6615e14b444868e642411f2c418b2",
-      "download_count": 68,
+      "download_count": 75,
       "created_at": "2026-09-21T15:23:27Z",
       "updated_at": "2026-09-21T15:23:28Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-4.6.4-py3-none-any.whl"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 28335647,
       "digest": "sha256:404f49b081819378524886c9db66dba57a5565981eff885830df1baba3a17df5",
-      "download_count": 40,
+      "download_count": 42,
       "created_at": "2026-09-21T15:23:14Z",
       "updated_at": "2026-09-21T15:23:16Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-4.6.4.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 45572,
       "digest": "sha256:4cde619b94dfd9377c05ee911519b2ee534b03d3c48cdbe8fe5657b295363316",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-09-21T15:23:34Z",
       "updated_at": "2026-09-21T15:23:35Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-application-extension-4.6.4.tgz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 44654,
       "digest": "sha256:de08f4d29b9c175d3c5f27e06b1a8c713fa87b137fcaf265f1156eb03e6e432e",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-21T15:23:09Z",
       "updated_at": "2026-09-21T15:23:09Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-console-4.6.4.tgz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 40944,
       "digest": "sha256:7023f010bf6429055653111298abbc47271935cfe3d3e3669feeb717b360c95e",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-21T15:23:41Z",
       "updated_at": "2026-09-21T15:23:41Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-csvviewer-4.6.4.tgz"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 8390,
       "digest": "sha256:f9c48b4fbbe3d9c73c210cf59c286e1241ae2883c37eeceba1f6319219c5fa9a",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-21T15:22:46Z",
       "updated_at": "2026-09-21T15:22:47Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-json-extension-4.6.4.tgz"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 20019,
       "digest": "sha256:49829f084c9e29b05dc4fba62635e50f9ecd2958d025df696239d2dd383ace78",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-21T15:22:58Z",
       "updated_at": "2026-09-21T15:22:58Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-logconsole-4.6.4.tgz"
@@ -2083,7 +2083,7 @@
       "state": "uploaded",
       "size": 25296,
       "digest": "sha256:d28760bb72035d9eb360c6cc15d87fe4553ac91ee91d084f9e9a50187f05e332",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-21T15:23:37Z",
       "updated_at": "2026-09-21T15:23:37Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-mainmenu-extension-4.6.4.tgz"
@@ -2731,7 +2731,7 @@
       "state": "uploaded",
       "size": 4830,
       "digest": "sha256:8860aa6897284a93899b86e7057c4333b0e32cb7ebe82d54f3be5ea25d9e3fef",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-21T15:23:34Z",
       "updated_at": "2026-09-21T15:23:34Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-pluginmanager-extension-4.6.4.tgz"
@@ -3379,7 +3379,7 @@
       "state": "uploaded",
       "size": 22654,
       "digest": "sha256:5f80d1c53b2473f6b03ff9828ac29d77ea10103efe070565c50687e5327f99c6",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-21T15:22:49Z",
       "updated_at": "2026-09-21T15:22:49Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-terminal-extension-4.6.4.tgz"
@@ -3631,7 +3631,7 @@
       "state": "uploaded",
       "size": 8815,
       "digest": "sha256:8a8b0048a0ef63117fa64f2483f924c947e5dc0215439bb6c0b60248298466ac",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-21T15:22:39Z",
       "updated_at": "2026-09-21T15:22:39Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-toc-extension-6.6.4.tgz"
@@ -3667,7 +3667,7 @@
       "state": "uploaded",
       "size": 6388,
       "digest": "sha256:0f5f5df03cc0ef6f59cd06af85b3773ab1276f637216441fed681cf81af9e0a4",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-21T15:23:08Z",
       "updated_at": "2026-09-21T15:23:09Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-tooltip-4.6.4.tgz"
@@ -3811,7 +3811,7 @@
       "state": "uploaded",
       "size": 222868,
       "digest": "sha256:99133f3b1fc084a69ccf7e0162e15a20f0bc28d65223ca78a211f647d0b0fab0",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-21T15:23:43Z",
       "updated_at": "2026-09-21T15:23:43Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-ui-components-4.6.4.tgz"
@@ -3919,7 +3919,7 @@
       "state": "uploaded",
       "size": 5953,
       "digest": "sha256:3d67036d0cdd70d0123c0ce11c4dda9f61dad1d40ffb2cbebc0435b84413532e",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-21T15:23:10Z",
       "updated_at": "2026-09-21T15:23:10Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-video-extension-4.6.4.tgz"
