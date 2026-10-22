@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 17171596,
       "digest": "sha256:15b13f991d3985129c797eb84d9949eeb8b6615e14b444868e642411f2c418b2",
-      "download_count": 75,
+      "download_count": 79,
       "created_at": "2026-09-21T15:23:27Z",
       "updated_at": "2026-09-21T15:23:28Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-4.6.4-py3-none-any.whl"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 4422,
       "digest": "sha256:3eb203912df16e3d83bb6db8bfc7e0a25c3c355e0da9b7cf3ba4bd03cda9677f",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-09-21T15:23:29Z",
       "updated_at": "2026-09-21T15:23:29Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-cell-toolbar-extension-4.6.4.tgz"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 139054,
       "digest": "sha256:33cd7922a8c542f3f6f058cd08e7b9cd5191382ebced61d25dd241d0f335d4e7",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-21T15:22:59Z",
       "updated_at": "2026-09-21T15:22:59Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-galata-5.6.4.tgz"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 7003,
       "digest": "sha256:4215321f04b8dce8ef9a94397e2f15e533493647651742e3ff476b5c0063389e",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-21T15:23:19Z",
       "updated_at": "2026-09-21T15:23:19Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-inspector-extension-4.6.4.tgz"
@@ -2011,7 +2011,7 @@
       "state": "uploaded",
       "size": 19320,
       "digest": "sha256:65a7ce593292d06c5f758a2b9da7b173b7de4a083073983415240ba98e060a19",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-21T15:23:06Z",
       "updated_at": "2026-09-21T15:23:06Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-lsp-extension-4.6.4.tgz"
@@ -2659,7 +2659,7 @@
       "state": "uploaded",
       "size": 5796,
       "digest": "sha256:91fbcd5bfc531104d2406358cb4e3bbe8d136a6ef88a42f6109353d06e923cad",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-21T15:23:31Z",
       "updated_at": "2026-09-21T15:23:31Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-pdf-extension-4.6.4.tgz"
@@ -3487,7 +3487,7 @@
       "state": "uploaded",
       "size": 7018,
       "digest": "sha256:3c99ecf5287f19459b798458f5e4719c0d2420136853428f0882a2cb391bf2a9",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-21T15:23:17Z",
       "updated_at": "2026-09-21T15:23:17Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-theme-dark-extension-4.6.4.tgz"
@@ -3559,7 +3559,7 @@
       "state": "uploaded",
       "size": 6502,
       "digest": "sha256:23e4948f72153eb399775dd43fe6a9e3e0a2eadc77f4d3378a8fab286ca19f12",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-21T15:22:41Z",
       "updated_at": "2026-09-21T15:22:41Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-theme-light-extension-4.6.4.tgz"
