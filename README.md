@@ -14,11 +14,11 @@ x install jupyterlab
 
 ## Code insight
 
-Total: **282,441** lines of code across **1829** files in the top 5 languages.
+Total: **282,547** lines of code across **1829** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 192,568 | 57,979 | 29,090 | 922 |
+| TypeScript | 192,674 | 57,979 | 29,095 | 922 |
 | Json | 30,114 | 0 | 5 | 504 |
 | Tsx | 27,840 | 8,137 | 3,512 | 99 |
 | Python | 11,606 | 680 | 2,438 | 82 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.7.0a2` (2026-09-21)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-23
 - **Assets in release**: 111
 
 ## Popularity
 
-- **Stars**: 15,372 · **Forks**: 4,139 · **Open issues**: 9,347 · **Contributors**: 665
+- **Stars**: 15,371 · **Forks**: 4,140 · **Open issues**: 9,347 · **Contributors**: 665
 
 ## Totals (cumulative)
 
-- **Releases**: 284 · **Merged PRs**: 8723 · **Open PRs**: 244 · **Closed issues**: 6946 · **Open issues**: 2401 · **Commits**: 27207
+- **Releases**: 284 · **Merged PRs**: 8726 · **Open PRs**: 243 · **Closed issues**: 6947 · **Open issues**: 2400 · **Commits**: 27209
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 58 | 50 | 16 | 28 | 68 |
-| last60d | 2026-08-24 | 3 | 109 | 68 | 34 | 38 | 136 |
-| 90d | 2026-07-25 | 4 | 157 | 88 | 47 | 51 | 191 |
-| last180d | 2026-04-26 | 18 | 380 | 127 | 111 | 83 | 484 |
-| 360d | 2025-10-28 | 32 | 753 | 189 | 234 | 145 | 892 |
-| last720d | 2024-11-02 | 69 | 1320 | 210 | 549 | 273 | 1023 |
+| 30d | 2026-09-24 | 0 | 61 | 48 | 17 | 27 | 70 |
+| last60d | 2026-08-25 | 3 | 110 | 65 | 32 | 37 | 138 |
+| 90d | 2026-07-26 | 4 | 160 | 87 | 48 | 49 | 193 |
+| last180d | 2026-04-27 | 18 | 379 | 126 | 110 | 82 | 486 |
+| 360d | 2025-10-29 | 32 | 752 | 188 | 234 | 143 | 894 |
+| last720d | 2024-11-03 | 69 | 1323 | 209 | 549 | 272 | 1025 |
 
 ## Release assets
 
@@ -206,4 +206,4 @@ Install metadata for jupyterlab lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:54:04Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:47:01Z._
