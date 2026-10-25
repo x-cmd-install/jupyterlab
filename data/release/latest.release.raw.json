@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 93027,
       "digest": "sha256:99b3ccce8d6c177faba51c028b24adc20083166a948bdf073a8e1989361bfc1a",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-09-21T15:23:32Z",
       "updated_at": "2026-09-21T15:23:32Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-apputils-extension-4.6.4.tgz"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 6429,
       "digest": "sha256:d692528d1c95d2999e4f3beb66bb879b245158699ceaadd02f4ba321416fbeb7",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-21T15:22:58Z",
       "updated_at": "2026-09-21T15:22:59Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/jupyterlab-imageviewer-4.6.4.tgz"
@@ -4027,7 +4027,7 @@
       "state": "uploaded",
       "size": 331,
       "digest": "sha256:1979e39d27ffe4507bcf114d7ce45d66d286479c8d212ed3192fdd760cbef9fb",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-21T15:05:35Z",
       "updated_at": "2026-09-21T15:05:35Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.4/metadata.json"
