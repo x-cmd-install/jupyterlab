@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,373 · **Forks**: 4,144 · **Open issues**: 9,348 · **Contributors**: 665
+- **Stars**: 15,374 · **Forks**: 4,144 · **Open issues**: 9,348 · **Contributors**: 665
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 56 | 47 | 16 | 26 | 52 |
-| last60d | 2026-08-26 | 3 | 107 | 64 | 33 | 37 | 135 |
-| 90d | 2026-07-27 | 4 | 155 | 88 | 49 | 49 | 181 |
-| last180d | 2026-04-28 | 18 | 378 | 126 | 111 | 81 | 461 |
-| 360d | 2025-10-30 | 32 | 750 | 189 | 235 | 142 | 886 |
-| last720d | 2024-11-04 | 69 | 1322 | 210 | 548 | 271 | 1025 |
+| 30d | 2026-09-26 | 0 | 56 | 44 | 16 | 26 | 52 |
+| last60d | 2026-08-27 | 3 | 107 | 64 | 32 | 37 | 135 |
+| 90d | 2026-07-28 | 4 | 153 | 88 | 46 | 49 | 181 |
+| last180d | 2026-04-29 | 18 | 373 | 125 | 109 | 80 | 461 |
+| 360d | 2025-10-31 | 31 | 749 | 189 | 235 | 142 | 886 |
+| last720d | 2024-11-05 | 69 | 1316 | 210 | 544 | 270 | 1023 |
 
 ## Release assets
 
@@ -206,4 +206,4 @@ Install metadata for jupyterlab lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:46:01Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:46:50Z._
