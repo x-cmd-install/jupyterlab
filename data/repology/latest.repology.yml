@@ -171,6 +171,54 @@
     - isaacyu@protonmail.com
   categories:
     - development
+- repo: raspbian_stable
+  subrepo: main
+  srcname: jupyterlab
+  binnames:
+    - jupyterlab
+  visiblename: jupyterlab
+  version: 4.0.11+~cs11.25.27
+  origversion: 4.0.11+ds1+~cs11.25.27-7
+  status: outdated
+  maintainers:
+    - debian-pan-maintainers@alioth-lists.debian.net
+    - lolando@debian.org
+    - yadd@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: parrot
+  subrepo: parrot/main
+  srcname: jupyterlab
+  binnames:
+    - jupyterlab
+  visiblename: jupyterlab
+  version: 4.0.11+~cs11.25.27
+  origversion: 4.0.11+ds1+~cs11.25.27-7
+  status: outdated
+  maintainers:
+    - debian-pan-maintainers@alioth-lists.debian.net
+    - lolando@debian.org
+    - yadd@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: jupyterlab
+  binnames:
+    - jupyterlab
+  visiblename: jupyterlab
+  version: 4.0.11+~cs11.25.27
+  origversion: 4.0.11+ds1+~cs11.25.27-7
+  status: outdated
+  maintainers:
+    - debian-pan-maintainers@alioth-lists.debian.net
+    - lolando@debian.org
+    - yadd@debian.org
+  categories:
+    - misc
+  vulnerable: true
 - repo: alpine_3_23
   subrepo: community
   srcname: jupyterlab
@@ -295,21 +343,6 @@
     - Unspecified
   vulnerable: true
 - repo: fedora_39
-  subrepo: updates
-  srcname: jupyterlab
-  binnames:
-    - jupyterlab
-  visiblename: jupyterlab
-  version: 4.0.11
-  origversion: 4.0.11-1.fc39
-  status: outdated
-  summary: JupyterLab computational environment
-  licenses:
-    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND (CC-BY-4.0 AND OFL-1.1 AND MIT) AND ISC AND MIT AND Unlicense
-  categories:
-    - Unspecified
-  vulnerable: true
-- repo: fedora_39
   subrepo: release
   srcname: jupyterlab
   binnames:
@@ -318,6 +351,21 @@
   version: 4.0.4
   origversion: 4.0.4-1.fc39
   status: legacy
+  summary: JupyterLab computational environment
+  licenses:
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND (CC-BY-4.0 AND OFL-1.1 AND MIT) AND ISC AND MIT AND Unlicense
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_39
+  subrepo: updates
+  srcname: jupyterlab
+  binnames:
+    - jupyterlab
+  visiblename: jupyterlab
+  version: 4.0.11
+  origversion: 4.0.11-1.fc39
+  status: outdated
   summary: JupyterLab computational environment
   licenses:
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND (CC-BY-4.0 AND OFL-1.1 AND MIT) AND ISC AND MIT AND Unlicense
@@ -384,6 +432,22 @@
   categories:
     - Unspecified
   vulnerable: true
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: jupyterlab
+  binnames:
+    - jupyterlab
+  visiblename: jupyterlab
+  version: 4.0.11+~cs11.25.27
+  origversion: 4.0.11+ds1+~cs11.25.27-7
+  status: outdated
+  maintainers:
+    - debian-pan-maintainers@alioth-lists.debian.net
+    - lolando@debian.org
+    - yadd@debian.org
+  categories:
+    - javascript
+  vulnerable: true
 - repo: fedora_42
   subrepo: updates
   srcname: jupyterlab
@@ -415,21 +479,6 @@
     - Unspecified
   vulnerable: true
 - repo: fedora_43
-  subrepo: release
-  srcname: jupyterlab
-  binnames:
-    - jupyterlab
-  visiblename: jupyterlab
-  version: 4.4.9
-  origversion: 4.4.9-1.fc43
-  status: legacy
-  summary: JupyterLab computational environment
-  licenses:
-    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND (CC-BY-4.0 AND OFL-1.1 AND MIT) AND EPL-2.0 AND ISC AND (MPL-2.0 OR Apache-2.0) AND MIT AND Unlicense
-  categories:
-    - Unspecified
-  vulnerable: true
-- repo: fedora_43
   subrepo: updates
   srcname: jupyterlab
   binnames:
@@ -438,6 +487,21 @@
   version: 4.4.10
   origversion: 4.4.10-2.fc43
   status: outdated
+  summary: JupyterLab computational environment
+  licenses:
+    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND (CC-BY-4.0 AND OFL-1.1 AND MIT) AND EPL-2.0 AND ISC AND (MPL-2.0 OR Apache-2.0) AND MIT AND Unlicense
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_43
+  subrepo: release
+  srcname: jupyterlab
+  binnames:
+    - jupyterlab
+  visiblename: jupyterlab
+  version: 4.4.9
+  origversion: 4.4.9-1.fc43
+  status: legacy
   summary: JupyterLab computational environment
   licenses:
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND (CC-BY-4.0 AND OFL-1.1 AND MIT) AND EPL-2.0 AND ISC AND (MPL-2.0 OR Apache-2.0) AND MIT AND Unlicense
@@ -472,70 +536,6 @@
     - pkg-javascript-devel@lists.alioth.debian.org
     - lolando@debian.org
     - rouca@debian.org
-    - yadd@debian.org
-  categories:
-    - misc
-  vulnerable: true
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: jupyterlab
-  binnames:
-    - jupyterlab
-  visiblename: jupyterlab
-  version: 4.0.11+~cs11.25.27
-  origversion: 4.0.11+ds1+~cs11.25.27-7
-  status: outdated
-  maintainers:
-    - debian-pan-maintainers@alioth-lists.debian.net
-    - lolando@debian.org
-    - yadd@debian.org
-  categories:
-    - misc
-  vulnerable: true
-- repo: parrot
-  subrepo: parrot/main
-  srcname: jupyterlab
-  binnames:
-    - jupyterlab
-  visiblename: jupyterlab
-  version: 4.0.11+~cs11.25.27
-  origversion: 4.0.11+ds1+~cs11.25.27-7
-  status: outdated
-  maintainers:
-    - debian-pan-maintainers@alioth-lists.debian.net
-    - lolando@debian.org
-    - yadd@debian.org
-  categories:
-    - misc
-  vulnerable: true
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: jupyterlab
-  binnames:
-    - jupyterlab
-  visiblename: jupyterlab
-  version: 4.0.11+~cs11.25.27
-  origversion: 4.0.11+ds1+~cs11.25.27-7
-  status: outdated
-  maintainers:
-    - debian-pan-maintainers@alioth-lists.debian.net
-    - lolando@debian.org
-    - yadd@debian.org
-  categories:
-    - javascript
-  vulnerable: true
-- repo: raspbian_stable
-  subrepo: main
-  srcname: jupyterlab
-  binnames:
-    - jupyterlab
-  visiblename: jupyterlab
-  version: 4.0.11+~cs11.25.27
-  origversion: 4.0.11+ds1+~cs11.25.27-7
-  status: outdated
-  maintainers:
-    - debian-pan-maintainers@alioth-lists.debian.net
-    - lolando@debian.org
     - yadd@debian.org
   categories:
     - misc
