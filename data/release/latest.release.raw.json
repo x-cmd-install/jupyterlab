@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 28393095,
       "digest": "sha256:e115a0ef663927d60afd20bd9a8e822a5c61d7d22bcab489d8e37f4885d0d2ce",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-10-29T12:56:15Z",
       "updated_at": "2026-10-29T12:56:17Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-4.6.5.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 116568,
       "digest": "sha256:965ac1e2f1b61b59a19170bb5bc56077056c28b22aba50448f4b25b32588a724",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-10-29T12:56:02Z",
       "updated_at": "2026-10-29T12:56:02Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-application-4.6.5.tgz"
