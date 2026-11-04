@@ -14,12 +14,12 @@ x install jupyterlab
 
 ## 代码洞察
 
-合计: **289,658** 行代码（覆盖前 5 种语言、共 **1839** 个文件）。
+合计: **290,681** 行代码（覆盖前 5 种语言、共 **1839** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 198,734 | 58,507 | 29,775 | 932 |
-| Json | 30,367 | 0 | 5 | 504 |
+| TypeScript | 199,323 | 58,567 | 29,842 | 932 |
+| Json | 30,801 | 0 | 5 | 504 |
 | Tsx | 28,622 | 8,298 | 3,604 | 99 |
 | Python | 11,590 | 679 | 2,436 | 82 |
 | Css | 11,454 | 2,122 | 2,475 | 222 |
@@ -43,27 +43,27 @@ x install jupyterlab
 ## 发布
 
 - **最新版本**: `v4.6.5` (2026-10-29)
-- **最近提交**: 2026-11-02
+- **最近提交**: 2026-11-03
 - **Release 含资产**: 111 个
 
 ## 流行度
 
-- **Star**: 15,386 · **Fork**: 4,151 · **开放 issue**: 9,368 · **贡献者**: 680
+- **Star**: 15,390 · **Fork**: 4,151 · **开放 issue**: 9,374 · **贡献者**: 680
 
 ## 累计统计
 
-- **发布数**: 286 · **已合并 PR**: 8810 · **开放 PR**: 220 · **已关闭 issue**: 6980 · **开放 issue**: 2388 · **提交数**: 27262
+- **发布数**: 286 · **已合并 PR**: 8813 · **开放 PR**: 219 · **已关闭 issue**: 6982 · **开放 issue**: 2392 · **提交数**: 27265
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 2 | 100 | 32 | 24 | 23 | 138 |
-| last60d | 2026-09-04 | 5 | 172 | 54 | 45 | 37 | 228 |
-| 90d | 2026-08-05 | 6 | 215 | 77 | 60 | 48 | 262 |
-| last180d | 2026-05-07 | 18 | 437 | 110 | 120 | 76 | 548 |
-| 360d | 2025-11-08 | 33 | 816 | 165 | 247 | 141 | 982 |
-| last720d | 2024-11-13 | 71 | 1386 | 186 | 555 | 263 | 1061 |
+| 30d | 2026-10-05 | 2 | 101 | 30 | 26 | 26 | 143 |
+| last60d | 2026-09-05 | 5 | 174 | 53 | 46 | 41 | 233 |
+| 90d | 2026-08-06 | 6 | 217 | 75 | 62 | 51 | 267 |
+| last180d | 2026-05-08 | 18 | 437 | 109 | 122 | 79 | 553 |
+| 360d | 2025-11-09 | 33 | 819 | 164 | 249 | 145 | 987 |
+| last720d | 2024-11-14 | 71 | 1383 | 185 | 557 | 266 | 1064 |
 
 ## Release 资产
 
@@ -181,22 +181,6 @@ x install jupyterlab
 | [jupyterlab-workspaces-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-workspaces-extension-4.6.5.tgz) | 20.9 KiB | `native/unknown` |
 | [metadata.json](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/metadata.json) | 331 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/jupyterlab) 上共有 **45** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**36** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `4.4.10+~3.1.0+~0.16.6+~cs1.4.4` | ⚠️ outdated |
-| Debian 14 | `4.4.10+~3.1.0+~0.16.6+~cs1.4.4` | ⚠️ outdated |
-| Debian 13 | `4.0.11+~cs11.25.27` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `4.0.11+~cs11.25.27` | ⚠️ outdated |
-| Arch | `4.6.5` | ✅ latest |
-| Homebrew | `4.6.5` | ✅ latest |
-| Fedora rawhide | `4.6.3` | ⚠️ outdated |
-| Void | `4.4.10` | ⚠️ outdated |
-| Alpine edge | `4.5.8` | ⚠️ outdated |
-
 ## 改进这些数据
 
 jupyterlab 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `jupyterlab` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -206,4 +190,4 @@ jupyterlab 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T08:12:26Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T07:36:18Z._
