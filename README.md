@@ -14,13 +14,13 @@ x install jupyterlab
 
 ## Code insight
 
-Total: **290,681** lines of code across **1839** files in the top 5 languages.
+Total: **292,218** lines of code across **1840** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 199,323 | 58,567 | 29,842 | 932 |
-| Json | 30,801 | 0 | 5 | 504 |
-| Tsx | 28,622 | 8,298 | 3,604 | 99 |
+| TypeScript | 200,843 | 58,711 | 30,049 | 933 |
+| Json | 30,814 | 0 | 5 | 504 |
+| Tsx | 28,626 | 8,300 | 3,603 | 99 |
 | Python | 11,590 | 679 | 2,436 | 82 |
 | Css | 11,454 | 2,122 | 2,475 | 222 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.6.5` (2026-10-29)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-05
 - **Assets in release**: 111
 
 ## Popularity
 
-- **Stars**: 15,390 · **Forks**: 4,151 · **Open issues**: 9,374 · **Contributors**: 680
+- **Stars**: 15,390 · **Forks**: 4,153 · **Open issues**: 9,379 · **Contributors**: 687
 
 ## Totals (cumulative)
 
-- **Releases**: 286 · **Merged PRs**: 8813 · **Open PRs**: 219 · **Closed issues**: 6982 · **Open issues**: 2392 · **Commits**: 27265
+- **Releases**: 286 · **Merged PRs**: 8825 · **Open PRs**: 214 · **Closed issues**: 6991 · **Open issues**: 2388 · **Commits**: 27275
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 2 | 101 | 30 | 26 | 26 | 143 |
-| last60d | 2026-09-05 | 5 | 174 | 53 | 46 | 41 | 233 |
-| 90d | 2026-08-06 | 6 | 217 | 75 | 62 | 51 | 267 |
-| last180d | 2026-05-08 | 18 | 437 | 109 | 122 | 79 | 553 |
-| 360d | 2025-11-09 | 33 | 819 | 164 | 249 | 145 | 987 |
-| last720d | 2024-11-14 | 71 | 1383 | 185 | 557 | 266 | 1064 |
+| 30d | 2026-10-06 | 2 | 108 | 27 | 30 | 26 | 163 |
+| last60d | 2026-09-06 | 5 | 184 | 50 | 50 | 42 | 253 |
+| 90d | 2026-08-07 | 6 | 225 | 72 | 66 | 51 | 287 |
+| last180d | 2026-05-09 | 18 | 445 | 104 | 128 | 77 | 573 |
+| 360d | 2025-11-10 | 33 | 831 | 156 | 255 | 143 | 1007 |
+| last720d | 2024-11-15 | 71 | 1393 | 180 | 564 | 264 | 1071 |
 
 ## Release assets
 
@@ -181,6 +181,22 @@ Lowest-scoring checks:
 | [jupyterlab-workspaces-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-workspaces-extension-4.6.5.tgz) | 20.9 KiB | `native/unknown` |
 | [metadata.json](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/metadata.json) | 331 B | `other` |
 
+## Distribution status
+
+Reported by **45** distros on [repology.org](https://repology.org/project/jupyterlab). **3** are ✅ on the latest upstream release, **36** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `4.4.10+~3.1.0+~0.16.6+~cs1.4.4` | ⚠️ outdated |
+| Debian 14 | `4.4.10+~3.1.0+~0.16.6+~cs1.4.4` | ⚠️ outdated |
+| Debian 13 | `4.0.11+~cs11.25.27` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `4.0.11+~cs11.25.27` | ⚠️ outdated |
+| Arch | `4.6.5` | ✅ latest |
+| Homebrew | `4.6.5` | ✅ latest |
+| Fedora rawhide | `4.6.3` | ⚠️ outdated |
+| Void | `4.4.10` | ⚠️ outdated |
+| Alpine edge | `4.5.8` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for jupyterlab lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jupyterlab` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -190,4 +206,4 @@ Install metadata for jupyterlab lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:36:16Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T08:03:22Z._
