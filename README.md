@@ -14,15 +14,15 @@ x install jupyterlab
 
 ## Code insight
 
-Total: **294,953** lines of code across **1845** files in the top 5 languages.
+Total: **298,194** lines of code across **1850** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 203,096 | 58,907 | 30,257 | 937 |
-| Json | 30,824 | 0 | 5 | 504 |
-| Tsx | 28,830 | 8,346 | 3,636 | 99 |
+| TypeScript | 206,213 | 59,266 | 30,637 | 942 |
+| Json | 30,867 | 0 | 5 | 504 |
+| Tsx | 28,887 | 8,364 | 3,637 | 99 |
 | Python | 11,845 | 688 | 2,500 | 83 |
-| Css | 11,467 | 2,121 | 2,476 | 222 |
+| Css | 11,490 | 2,124 | 2,482 | 222 |
 
 ## OpenSSF Scorecard
 
@@ -42,148 +42,148 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v4.6.5` (2026-10-29)
+- **Latest**: `v4.7.0b1` (2026-11-06)
 - **Last commit**: 2026-11-06
 - **Assets in release**: 111
 
 ## Popularity
 
-- **Stars**: 15,390 · **Forks**: 4,151 · **Open issues**: 9,381 · **Contributors**: 694
+- **Stars**: 15,389 · **Forks**: 4,152 · **Open issues**: 9,385 · **Contributors**: 696
 
 ## Totals (cumulative)
 
-- **Releases**: 286 · **Merged PRs**: 8850 · **Open PRs**: 201 · **Closed issues**: 7006 · **Open issues**: 2375 · **Commits**: 27293
+- **Releases**: 288 · **Merged PRs**: 8862 · **Open PRs**: 197 · **Closed issues**: 7012 · **Open issues**: 2373 · **Commits**: 27302
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 126 | 21 | 36 | 21 | 206 |
-| last60d | 2026-09-07 | 5 | 204 | 39 | 57 | 37 | 296 |
-| 90d | 2026-08-08 | 6 | 247 | 62 | 74 | 45 | 330 |
-| last180d | 2026-05-10 | 18 | 468 | 92 | 138 | 69 | 616 |
-| 360d | 2025-11-11 | 33 | 855 | 143 | 265 | 133 | 1050 |
-| last720d | 2024-11-16 | 70 | 1418 | 167 | 576 | 254 | 1087 |
+| 30d | 2026-10-08 | 4 | 130 | 20 | 37 | 21 | 226 |
+| last60d | 2026-09-08 | 7 | 210 | 39 | 61 | 37 | 316 |
+| 90d | 2026-08-09 | 8 | 254 | 58 | 78 | 45 | 350 |
+| last180d | 2026-05-11 | 20 | 478 | 87 | 143 | 68 | 636 |
+| 360d | 2025-11-12 | 35 | 867 | 139 | 270 | 132 | 1070 |
+| last720d | 2024-11-17 | 71 | 1427 | 162 | 581 | 253 | 1096 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [asset_shas.json](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/asset_shas.json) | 11.4 KiB | `other` |
-| [jupyterlab-4.6.5-py3-none-any.whl](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-4.6.5-py3-none-any.whl) | 16.5 MiB | `other` |
-| [jupyterlab-4.6.5.tar.gz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-4.6.5.tar.gz) | 27.1 MiB | `native/unknown` |
-| [jupyterlab-application-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-application-4.6.5.tgz) | 113.8 KiB | `native/unknown` |
-| [jupyterlab-application-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-application-extension-4.6.5.tgz) | 44.5 KiB | `native/unknown` |
-| [jupyterlab-apputils-4.7.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-apputils-4.7.5.tgz) | 200.8 KiB | `native/unknown` |
-| [jupyterlab-apputils-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-apputils-extension-4.6.5.tgz) | 90.8 KiB | `native/unknown` |
-| [jupyterlab-attachments-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-attachments-4.6.5.tgz) | 6.2 KiB | `native/unknown` |
-| [jupyterlab-audio-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-audio-extension-4.6.5.tgz) | 5.9 KiB | `native/unknown` |
-| [jupyterlab-buildutils-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-buildutils-4.6.5.tgz) | 85.2 KiB | `native/unknown` |
-| [jupyterlab-cell-toolbar-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-cell-toolbar-4.6.5.tgz) | 14.5 KiB | `native/unknown` |
-| [jupyterlab-cell-toolbar-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-cell-toolbar-extension-4.6.5.tgz) | 4.3 KiB | `native/unknown` |
-| [jupyterlab-cells-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-cells-4.6.5.tgz) | 83.8 KiB | `native/unknown` |
-| [jupyterlab-celltags-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-celltags-extension-4.6.5.tgz) | 6.7 KiB | `native/unknown` |
-| [jupyterlab-codeeditor-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-codeeditor-4.6.5.tgz) | 26.2 KiB | `native/unknown` |
-| [jupyterlab-codemirror-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-codemirror-4.6.5.tgz) | 105.2 KiB | `native/unknown` |
-| [jupyterlab-codemirror-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-codemirror-extension-4.6.5.tgz) | 17.4 KiB | `native/unknown` |
-| [jupyterlab-completer-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-completer-4.6.5.tgz) | 113.5 KiB | `native/unknown` |
-| [jupyterlab-completer-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-completer-extension-4.6.5.tgz) | 14.7 KiB | `native/unknown` |
-| [jupyterlab-console-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-console-4.6.5.tgz) | 43.6 KiB | `native/unknown` |
-| [jupyterlab-console-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-console-extension-4.6.5.tgz) | 29.1 KiB | `native/unknown` |
-| [jupyterlab-core-meta-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-core-meta-4.6.5.tgz) | 2.7 KiB | `native/unknown` |
-| [jupyterlab-coreutils-6.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-coreutils-6.6.5.tgz) | 29.8 KiB | `native/unknown` |
-| [jupyterlab-csvviewer-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-csvviewer-4.6.5.tgz) | 40.0 KiB | `native/unknown` |
-| [jupyterlab-csvviewer-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-csvviewer-extension-4.6.5.tgz) | 11.5 KiB | `native/unknown` |
-| [jupyterlab-debugger-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-debugger-4.6.5.tgz) | 134.0 KiB | `native/unknown` |
-| [jupyterlab-debugger-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-debugger-extension-4.6.5.tgz) | 35.3 KiB | `native/unknown` |
-| [jupyterlab-docmanager-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-docmanager-4.6.5.tgz) | 46.7 KiB | `native/unknown` |
-| [jupyterlab-docmanager-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-docmanager-extension-4.6.5.tgz) | 32.2 KiB | `native/unknown` |
-| [jupyterlab-docregistry-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-docregistry-4.6.5.tgz) | 66.3 KiB | `native/unknown` |
-| [jupyterlab-documentsearch-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-documentsearch-4.6.5.tgz) | 41.1 KiB | `native/unknown` |
-| [jupyterlab-documentsearch-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-documentsearch-extension-4.6.5.tgz) | 10.7 KiB | `native/unknown` |
-| [jupyterlab-extensionmanager-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-extensionmanager-4.6.5.tgz) | 27.1 KiB | `native/unknown` |
-| [jupyterlab-extensionmanager-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-extensionmanager-extension-4.6.5.tgz) | 5.4 KiB | `native/unknown` |
-| [jupyterlab-filebrowser-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-filebrowser-4.6.5.tgz) | 150.3 KiB | `native/unknown` |
-| [jupyterlab-filebrowser-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-filebrowser-extension-4.6.5.tgz) | 37.8 KiB | `native/unknown` |
-| [jupyterlab-fileeditor-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-fileeditor-4.6.5.tgz) | 27.9 KiB | `native/unknown` |
-| [jupyterlab-fileeditor-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-fileeditor-extension-4.6.5.tgz) | 40.2 KiB | `native/unknown` |
-| [jupyterlab-galata-5.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-galata-5.6.5.tgz) | 136.0 KiB | `native/unknown` |
-| [jupyterlab-help-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-help-extension-4.6.5.tgz) | 14.3 KiB | `native/unknown` |
-| [jupyterlab-htmlviewer-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-htmlviewer-4.6.5.tgz) | 8.1 KiB | `native/unknown` |
-| [jupyterlab-htmlviewer-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-htmlviewer-extension-4.6.5.tgz) | 5.7 KiB | `native/unknown` |
-| [jupyterlab-hub-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-hub-extension-4.6.5.tgz) | 5.0 KiB | `native/unknown` |
-| [jupyterlab-imageviewer-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-imageviewer-4.6.5.tgz) | 6.3 KiB | `native/unknown` |
-| [jupyterlab-imageviewer-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-imageviewer-extension-4.6.5.tgz) | 5.8 KiB | `native/unknown` |
-| [jupyterlab-inspector-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-inspector-4.6.5.tgz) | 10.9 KiB | `native/unknown` |
-| [jupyterlab-inspector-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-inspector-extension-4.6.5.tgz) | 6.8 KiB | `native/unknown` |
-| [jupyterlab-javascript-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-javascript-extension-4.6.5.tgz) | 2.9 KiB | `native/unknown` |
-| [jupyterlab-json-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-json-extension-4.6.5.tgz) | 10.6 KiB | `native/unknown` |
-| [jupyterlab-launcher-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-launcher-4.6.5.tgz) | 12.6 KiB | `native/unknown` |
-| [jupyterlab-launcher-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-launcher-extension-4.6.5.tgz) | 5.1 KiB | `native/unknown` |
-| [jupyterlab-logconsole-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-logconsole-4.6.5.tgz) | 19.5 KiB | `native/unknown` |
-| [jupyterlab-logconsole-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-logconsole-extension-4.6.5.tgz) | 17.6 KiB | `native/unknown` |
-| [jupyterlab-lsp-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-lsp-4.6.5.tgz) | 101.1 KiB | `native/unknown` |
-| [jupyterlab-lsp-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-lsp-extension-4.6.5.tgz) | 18.9 KiB | `native/unknown` |
-| [jupyterlab-mainmenu-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-mainmenu-4.6.5.tgz) | 11.7 KiB | `native/unknown` |
-| [jupyterlab-mainmenu-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-mainmenu-extension-4.6.5.tgz) | 24.7 KiB | `native/unknown` |
-| [jupyterlab-markdownviewer-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-markdownviewer-4.6.5.tgz) | 13.1 KiB | `native/unknown` |
-| [jupyterlab-markdownviewer-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-markdownviewer-extension-4.6.5.tgz) | 5.9 KiB | `native/unknown` |
-| [jupyterlab-markedparser-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-markedparser-extension-4.6.5.tgz) | 6.3 KiB | `native/unknown` |
-| [jupyterlab-mathjax-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-mathjax-extension-4.6.5.tgz) | 6.2 KiB | `native/unknown` |
-| [jupyterlab-mermaid-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-mermaid-4.6.5.tgz) | 19.1 KiB | `native/unknown` |
-| [jupyterlab-mermaid-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-mermaid-extension-4.6.5.tgz) | 3.8 KiB | `native/unknown` |
-| [jupyterlab-metadataform-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-metadataform-4.6.5.tgz) | 14.6 KiB | `native/unknown` |
-| [jupyterlab-metadataform-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-metadataform-extension-4.6.5.tgz) | 6.9 KiB | `native/unknown` |
-| [jupyterlab-metapackage-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-metapackage-4.6.5.tgz) | 1.7 KiB | `native/unknown` |
-| [jupyterlab-nbconvert-css-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-nbconvert-css-4.6.5.tgz) | 45.7 KiB | `native/unknown` |
-| [jupyterlab-nbformat-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-nbformat-4.6.5.tgz) | 4.9 KiB | `native/unknown` |
-| [jupyterlab-notebook-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-notebook-4.6.5.tgz) | 268.7 KiB | `native/unknown` |
-| [jupyterlab-notebook-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-notebook-extension-4.6.5.tgz) | 86.2 KiB | `native/unknown` |
-| [jupyterlab-observables-5.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-observables-5.6.5.tgz) | 21.9 KiB | `native/unknown` |
-| [jupyterlab-outputarea-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-outputarea-4.6.5.tgz) | 42.0 KiB | `native/unknown` |
-| [jupyterlab-pdf-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-pdf-extension-4.6.5.tgz) | 5.7 KiB | `native/unknown` |
-| [jupyterlab-pluginmanager-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-pluginmanager-4.6.5.tgz) | 17.3 KiB | `native/unknown` |
-| [jupyterlab-pluginmanager-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-pluginmanager-extension-4.6.5.tgz) | 4.7 KiB | `native/unknown` |
-| [jupyterlab-property-inspector-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-property-inspector-4.6.5.tgz) | 6.4 KiB | `native/unknown` |
-| [jupyterlab-rendermime-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-rendermime-4.6.5.tgz) | 74.8 KiB | `native/unknown` |
-| [jupyterlab-rendermime-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-rendermime-extension-4.6.5.tgz) | 4.3 KiB | `native/unknown` |
-| [jupyterlab-rendermime-interfaces-3.14.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-rendermime-interfaces-3.14.5.tgz) | 7.6 KiB | `native/unknown` |
-| [jupyterlab-running-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-running-4.6.5.tgz) | 25.2 KiB | `native/unknown` |
-| [jupyterlab-running-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-running-extension-4.6.5.tgz) | 19.4 KiB | `native/unknown` |
-| [jupyterlab-services-7.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-services-7.6.5.tgz) | 249.1 KiB | `native/unknown` |
-| [jupyterlab-services-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-services-extension-4.6.5.tgz) | 5.2 KiB | `native/unknown` |
-| [jupyterlab-settingeditor-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-settingeditor-4.6.5.tgz) | 50.1 KiB | `native/unknown` |
-| [jupyterlab-settingeditor-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-settingeditor-extension-4.6.5.tgz) | 15.9 KiB | `native/unknown` |
-| [jupyterlab-settingregistry-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-settingregistry-4.6.5.tgz) | 37.8 KiB | `native/unknown` |
-| [jupyterlab-shortcuts-extension-5.4.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-shortcuts-extension-5.4.5.tgz) | 59.2 KiB | `native/unknown` |
-| [jupyterlab-statedb-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-statedb-4.6.5.tgz) | 17.0 KiB | `native/unknown` |
-| [jupyterlab-statusbar-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-statusbar-4.6.5.tgz) | 14.8 KiB | `native/unknown` |
-| [jupyterlab-statusbar-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-statusbar-extension-4.6.5.tgz) | 3.6 KiB | `native/unknown` |
-| [jupyterlab-template-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-template-4.6.5.tgz) | 947 B | `native/unknown` |
-| [jupyterlab-terminal-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-terminal-4.6.5.tgz) | 19.5 KiB | `native/unknown` |
-| [jupyterlab-terminal-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-terminal-extension-4.6.5.tgz) | 22.1 KiB | `native/unknown` |
-| [jupyterlab-testing-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-testing-4.6.5.tgz) | 27.3 KiB | `native/unknown` |
-| [jupyterlab-testutils-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-testutils-4.6.5.tgz) | 3.4 KiB | `native/unknown` |
-| [jupyterlab-theme-dark-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-theme-dark-extension-4.6.5.tgz) | 6.8 KiB | `native/unknown` |
-| [jupyterlab-theme-dark-high-contrast-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-theme-dark-high-contrast-extension-4.6.5.tgz) | 6.9 KiB | `native/unknown` |
-| [jupyterlab-theme-light-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-theme-light-extension-4.6.5.tgz) | 6.3 KiB | `native/unknown` |
-| [jupyterlab-toc-6.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-toc-6.6.5.tgz) | 30.5 KiB | `native/unknown` |
-| [jupyterlab-toc-extension-6.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-toc-extension-6.6.5.tgz) | 8.6 KiB | `native/unknown` |
-| [jupyterlab-tooltip-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-tooltip-4.6.5.tgz) | 6.2 KiB | `native/unknown` |
-| [jupyterlab-tooltip-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-tooltip-extension-4.6.5.tgz) | 6.8 KiB | `native/unknown` |
-| [jupyterlab-translation-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-translation-4.6.5.tgz) | 18.5 KiB | `native/unknown` |
-| [jupyterlab-translation-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-translation-extension-4.6.5.tgz) | 5.9 KiB | `native/unknown` |
-| [jupyterlab-ui-components-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-ui-components-4.6.5.tgz) | 219.0 KiB | `native/unknown` |
-| [jupyterlab-ui-components-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-ui-components-extension-4.6.5.tgz) | 1.9 KiB | `native/unknown` |
-| [jupyterlab-vega5-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-vega5-extension-4.6.5.tgz) | 5.8 KiB | `native/unknown` |
-| [jupyterlab-video-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-video-extension-4.6.5.tgz) | 5.8 KiB | `native/unknown` |
-| [jupyterlab-workspaces-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-workspaces-4.6.5.tgz) | 4.2 KiB | `native/unknown` |
-| [jupyterlab-workspaces-extension-4.6.5.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/jupyterlab-workspaces-extension-4.6.5.tgz) | 20.9 KiB | `native/unknown` |
-| [metadata.json](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.5/metadata.json) | 331 B | `other` |
+| [asset_shas.json](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/asset_shas.json) | 11.4 KiB | `other` |
+| [jupyterlab-4.6.6-py3-none-any.whl](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-4.6.6-py3-none-any.whl) | 16.5 MiB | `other` |
+| [jupyterlab-4.6.6.tar.gz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-4.6.6.tar.gz) | 27.1 MiB | `native/unknown` |
+| [jupyterlab-application-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-application-4.6.6.tgz) | 113.8 KiB | `native/unknown` |
+| [jupyterlab-application-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-application-extension-4.6.6.tgz) | 44.5 KiB | `native/unknown` |
+| [jupyterlab-apputils-4.7.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-apputils-4.7.6.tgz) | 202.2 KiB | `native/unknown` |
+| [jupyterlab-apputils-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-apputils-extension-4.6.6.tgz) | 90.8 KiB | `native/unknown` |
+| [jupyterlab-attachments-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-attachments-4.6.6.tgz) | 6.2 KiB | `native/unknown` |
+| [jupyterlab-audio-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-audio-extension-4.6.6.tgz) | 5.9 KiB | `native/unknown` |
+| [jupyterlab-buildutils-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-buildutils-4.6.6.tgz) | 85.3 KiB | `native/unknown` |
+| [jupyterlab-cell-toolbar-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-cell-toolbar-4.6.6.tgz) | 14.5 KiB | `native/unknown` |
+| [jupyterlab-cell-toolbar-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-cell-toolbar-extension-4.6.6.tgz) | 4.3 KiB | `native/unknown` |
+| [jupyterlab-cells-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-cells-4.6.6.tgz) | 84.3 KiB | `native/unknown` |
+| [jupyterlab-celltags-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-celltags-extension-4.6.6.tgz) | 6.7 KiB | `native/unknown` |
+| [jupyterlab-codeeditor-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-codeeditor-4.6.6.tgz) | 26.2 KiB | `native/unknown` |
+| [jupyterlab-codemirror-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-codemirror-4.6.6.tgz) | 105.2 KiB | `native/unknown` |
+| [jupyterlab-codemirror-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-codemirror-extension-4.6.6.tgz) | 17.4 KiB | `native/unknown` |
+| [jupyterlab-completer-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-completer-4.6.6.tgz) | 113.6 KiB | `native/unknown` |
+| [jupyterlab-completer-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-completer-extension-4.6.6.tgz) | 14.7 KiB | `native/unknown` |
+| [jupyterlab-console-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-console-4.6.6.tgz) | 43.6 KiB | `native/unknown` |
+| [jupyterlab-console-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-console-extension-4.6.6.tgz) | 29.1 KiB | `native/unknown` |
+| [jupyterlab-core-meta-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-core-meta-4.6.6.tgz) | 2.7 KiB | `native/unknown` |
+| [jupyterlab-coreutils-6.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-coreutils-6.6.6.tgz) | 30.1 KiB | `native/unknown` |
+| [jupyterlab-csvviewer-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-csvviewer-4.6.6.tgz) | 40.0 KiB | `native/unknown` |
+| [jupyterlab-csvviewer-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-csvviewer-extension-4.6.6.tgz) | 11.5 KiB | `native/unknown` |
+| [jupyterlab-debugger-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-debugger-4.6.6.tgz) | 135.3 KiB | `native/unknown` |
+| [jupyterlab-debugger-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-debugger-extension-4.6.6.tgz) | 35.3 KiB | `native/unknown` |
+| [jupyterlab-docmanager-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-docmanager-4.6.6.tgz) | 47.2 KiB | `native/unknown` |
+| [jupyterlab-docmanager-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-docmanager-extension-4.6.6.tgz) | 32.2 KiB | `native/unknown` |
+| [jupyterlab-docregistry-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-docregistry-4.6.6.tgz) | 66.3 KiB | `native/unknown` |
+| [jupyterlab-documentsearch-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-documentsearch-4.6.6.tgz) | 41.1 KiB | `native/unknown` |
+| [jupyterlab-documentsearch-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-documentsearch-extension-4.6.6.tgz) | 10.7 KiB | `native/unknown` |
+| [jupyterlab-extensionmanager-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-extensionmanager-4.6.6.tgz) | 27.1 KiB | `native/unknown` |
+| [jupyterlab-extensionmanager-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-extensionmanager-extension-4.6.6.tgz) | 5.4 KiB | `native/unknown` |
+| [jupyterlab-filebrowser-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-filebrowser-4.6.6.tgz) | 151.3 KiB | `native/unknown` |
+| [jupyterlab-filebrowser-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-filebrowser-extension-4.6.6.tgz) | 37.8 KiB | `native/unknown` |
+| [jupyterlab-fileeditor-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-fileeditor-4.6.6.tgz) | 27.9 KiB | `native/unknown` |
+| [jupyterlab-fileeditor-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-fileeditor-extension-4.6.6.tgz) | 40.2 KiB | `native/unknown` |
+| [jupyterlab-galata-5.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-galata-5.6.6.tgz) | 136.0 KiB | `native/unknown` |
+| [jupyterlab-help-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-help-extension-4.6.6.tgz) | 14.3 KiB | `native/unknown` |
+| [jupyterlab-htmlviewer-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-htmlviewer-4.6.6.tgz) | 8.1 KiB | `native/unknown` |
+| [jupyterlab-htmlviewer-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-htmlviewer-extension-4.6.6.tgz) | 5.7 KiB | `native/unknown` |
+| [jupyterlab-hub-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-hub-extension-4.6.6.tgz) | 5.0 KiB | `native/unknown` |
+| [jupyterlab-imageviewer-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-imageviewer-4.6.6.tgz) | 6.3 KiB | `native/unknown` |
+| [jupyterlab-imageviewer-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-imageviewer-extension-4.6.6.tgz) | 5.8 KiB | `native/unknown` |
+| [jupyterlab-inspector-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-inspector-4.6.6.tgz) | 10.9 KiB | `native/unknown` |
+| [jupyterlab-inspector-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-inspector-extension-4.6.6.tgz) | 6.8 KiB | `native/unknown` |
+| [jupyterlab-javascript-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-javascript-extension-4.6.6.tgz) | 2.9 KiB | `native/unknown` |
+| [jupyterlab-json-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-json-extension-4.6.6.tgz) | 10.6 KiB | `native/unknown` |
+| [jupyterlab-launcher-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-launcher-4.6.6.tgz) | 12.6 KiB | `native/unknown` |
+| [jupyterlab-launcher-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-launcher-extension-4.6.6.tgz) | 5.1 KiB | `native/unknown` |
+| [jupyterlab-logconsole-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-logconsole-4.6.6.tgz) | 19.6 KiB | `native/unknown` |
+| [jupyterlab-logconsole-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-logconsole-extension-4.6.6.tgz) | 17.6 KiB | `native/unknown` |
+| [jupyterlab-lsp-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-lsp-4.6.6.tgz) | 101.1 KiB | `native/unknown` |
+| [jupyterlab-lsp-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-lsp-extension-4.6.6.tgz) | 18.9 KiB | `native/unknown` |
+| [jupyterlab-mainmenu-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-mainmenu-4.6.6.tgz) | 11.7 KiB | `native/unknown` |
+| [jupyterlab-mainmenu-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-mainmenu-extension-4.6.6.tgz) | 24.7 KiB | `native/unknown` |
+| [jupyterlab-markdownviewer-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-markdownviewer-4.6.6.tgz) | 13.1 KiB | `native/unknown` |
+| [jupyterlab-markdownviewer-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-markdownviewer-extension-4.6.6.tgz) | 5.9 KiB | `native/unknown` |
+| [jupyterlab-markedparser-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-markedparser-extension-4.6.6.tgz) | 7.4 KiB | `native/unknown` |
+| [jupyterlab-mathjax-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-mathjax-extension-4.6.6.tgz) | 6.2 KiB | `native/unknown` |
+| [jupyterlab-mermaid-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-mermaid-4.6.6.tgz) | 19.1 KiB | `native/unknown` |
+| [jupyterlab-mermaid-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-mermaid-extension-4.6.6.tgz) | 3.8 KiB | `native/unknown` |
+| [jupyterlab-metadataform-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-metadataform-4.6.6.tgz) | 15.9 KiB | `native/unknown` |
+| [jupyterlab-metadataform-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-metadataform-extension-4.6.6.tgz) | 6.9 KiB | `native/unknown` |
+| [jupyterlab-metapackage-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-metapackage-4.6.6.tgz) | 1.7 KiB | `native/unknown` |
+| [jupyterlab-nbconvert-css-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-nbconvert-css-4.6.6.tgz) | 45.7 KiB | `native/unknown` |
+| [jupyterlab-nbformat-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-nbformat-4.6.6.tgz) | 4.9 KiB | `native/unknown` |
+| [jupyterlab-notebook-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-notebook-4.6.6.tgz) | 270.4 KiB | `native/unknown` |
+| [jupyterlab-notebook-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-notebook-extension-4.6.6.tgz) | 86.2 KiB | `native/unknown` |
+| [jupyterlab-observables-5.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-observables-5.6.6.tgz) | 21.9 KiB | `native/unknown` |
+| [jupyterlab-outputarea-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-outputarea-4.6.6.tgz) | 42.0 KiB | `native/unknown` |
+| [jupyterlab-pdf-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-pdf-extension-4.6.6.tgz) | 5.7 KiB | `native/unknown` |
+| [jupyterlab-pluginmanager-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-pluginmanager-4.6.6.tgz) | 17.3 KiB | `native/unknown` |
+| [jupyterlab-pluginmanager-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-pluginmanager-extension-4.6.6.tgz) | 4.7 KiB | `native/unknown` |
+| [jupyterlab-property-inspector-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-property-inspector-4.6.6.tgz) | 6.4 KiB | `native/unknown` |
+| [jupyterlab-rendermime-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-rendermime-4.6.6.tgz) | 74.8 KiB | `native/unknown` |
+| [jupyterlab-rendermime-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-rendermime-extension-4.6.6.tgz) | 4.3 KiB | `native/unknown` |
+| [jupyterlab-rendermime-interfaces-3.14.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-rendermime-interfaces-3.14.6.tgz) | 7.6 KiB | `native/unknown` |
+| [jupyterlab-running-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-running-4.6.6.tgz) | 25.2 KiB | `native/unknown` |
+| [jupyterlab-running-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-running-extension-4.6.6.tgz) | 19.4 KiB | `native/unknown` |
+| [jupyterlab-services-7.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-services-7.6.6.tgz) | 249.3 KiB | `native/unknown` |
+| [jupyterlab-services-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-services-extension-4.6.6.tgz) | 5.2 KiB | `native/unknown` |
+| [jupyterlab-settingeditor-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-settingeditor-4.6.6.tgz) | 50.1 KiB | `native/unknown` |
+| [jupyterlab-settingeditor-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-settingeditor-extension-4.6.6.tgz) | 15.9 KiB | `native/unknown` |
+| [jupyterlab-settingregistry-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-settingregistry-4.6.6.tgz) | 38.3 KiB | `native/unknown` |
+| [jupyterlab-shortcuts-extension-5.4.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-shortcuts-extension-5.4.6.tgz) | 59.2 KiB | `native/unknown` |
+| [jupyterlab-statedb-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-statedb-4.6.6.tgz) | 17.0 KiB | `native/unknown` |
+| [jupyterlab-statusbar-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-statusbar-4.6.6.tgz) | 14.8 KiB | `native/unknown` |
+| [jupyterlab-statusbar-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-statusbar-extension-4.6.6.tgz) | 3.6 KiB | `native/unknown` |
+| [jupyterlab-template-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-template-4.6.6.tgz) | 948 B | `native/unknown` |
+| [jupyterlab-terminal-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-terminal-4.6.6.tgz) | 19.5 KiB | `native/unknown` |
+| [jupyterlab-terminal-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-terminal-extension-4.6.6.tgz) | 22.1 KiB | `native/unknown` |
+| [jupyterlab-testing-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-testing-4.6.6.tgz) | 27.3 KiB | `native/unknown` |
+| [jupyterlab-testutils-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-testutils-4.6.6.tgz) | 3.4 KiB | `native/unknown` |
+| [jupyterlab-theme-dark-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-theme-dark-extension-4.6.6.tgz) | 6.9 KiB | `native/unknown` |
+| [jupyterlab-theme-dark-high-contrast-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-theme-dark-high-contrast-extension-4.6.6.tgz) | 6.9 KiB | `native/unknown` |
+| [jupyterlab-theme-light-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-theme-light-extension-4.6.6.tgz) | 6.3 KiB | `native/unknown` |
+| [jupyterlab-toc-6.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-toc-6.6.6.tgz) | 30.7 KiB | `native/unknown` |
+| [jupyterlab-toc-extension-6.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-toc-extension-6.6.6.tgz) | 8.6 KiB | `native/unknown` |
+| [jupyterlab-tooltip-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-tooltip-4.6.6.tgz) | 6.2 KiB | `native/unknown` |
+| [jupyterlab-tooltip-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-tooltip-extension-4.6.6.tgz) | 6.8 KiB | `native/unknown` |
+| [jupyterlab-translation-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-translation-4.6.6.tgz) | 18.5 KiB | `native/unknown` |
+| [jupyterlab-translation-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-translation-extension-4.6.6.tgz) | 5.9 KiB | `native/unknown` |
+| [jupyterlab-ui-components-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-ui-components-4.6.6.tgz) | 219.9 KiB | `native/unknown` |
+| [jupyterlab-ui-components-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-ui-components-extension-4.6.6.tgz) | 1.9 KiB | `native/unknown` |
+| [jupyterlab-vega5-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-vega5-extension-4.6.6.tgz) | 5.8 KiB | `native/unknown` |
+| [jupyterlab-video-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-video-extension-4.6.6.tgz) | 5.8 KiB | `native/unknown` |
+| [jupyterlab-workspaces-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-workspaces-4.6.6.tgz) | 4.2 KiB | `native/unknown` |
+| [jupyterlab-workspaces-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-workspaces-extension-4.6.6.tgz) | 20.9 KiB | `native/unknown` |
+| [metadata.json](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/metadata.json) | 331 B | `other` |
 
 ## Distribution status
 
-Reported by **45** distros on [repology.org](https://repology.org/project/jupyterlab). **4** are ✅ on the latest upstream release, **35** are ⚠️ on an older version.
+Reported by **47** distros on [repology.org](https://repology.org/project/jupyterlab). **2** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -191,8 +191,8 @@ Reported by **45** distros on [repology.org](https://repology.org/project/jupyte
 | Debian 14 | `4.4.10+~3.1.0+~0.16.6+~cs1.4.4` | ⚠️ outdated |
 | Debian 13 | `4.0.11+~cs11.25.27` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `4.0.11+~cs11.25.27` | ⚠️ outdated |
-| Arch | `4.6.5` | ✅ latest |
-| Homebrew | `4.6.5` | ✅ latest |
+| Arch | `4.6.6` | ✅ latest |
+| Homebrew | `4.6.5` | ⚠️ outdated |
 | Fedora rawhide | `4.6.3` | ⚠️ outdated |
 | Void | `4.4.10` | ⚠️ outdated |
 | Alpine edge | `4.5.8` | ⚠️ outdated |
@@ -206,4 +206,4 @@ Install metadata for jupyterlab lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:07:19Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:16:16Z._
