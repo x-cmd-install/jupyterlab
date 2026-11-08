@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,389 · **Forks**: 4,152 · **Open issues**: 9,385 · **Contributors**: 696
+- **Stars**: 15,390 · **Forks**: 4,153 · **Open issues**: 9,386 · **Contributors**: 696
 
 ## Totals (cumulative)
 
-- **Releases**: 288 · **Merged PRs**: 8862 · **Open PRs**: 197 · **Closed issues**: 7012 · **Open issues**: 2373 · **Commits**: 27302
+- **Releases**: 288 · **Merged PRs**: 8862 · **Open PRs**: 202 · **Closed issues**: 7012 · **Open issues**: 2374 · **Commits**: 27302
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 4 | 130 | 20 | 37 | 21 | 226 |
-| last60d | 2026-09-08 | 7 | 210 | 39 | 61 | 37 | 316 |
-| 90d | 2026-08-09 | 8 | 254 | 58 | 78 | 45 | 350 |
-| last180d | 2026-05-11 | 20 | 478 | 87 | 143 | 68 | 636 |
-| 360d | 2025-11-12 | 35 | 867 | 139 | 270 | 132 | 1070 |
-| last720d | 2024-11-17 | 71 | 1427 | 162 | 581 | 253 | 1096 |
+| 30d | 2026-10-09 | 4 | 126 | 25 | 35 | 21 | 211 |
+| last60d | 2026-09-09 | 7 | 208 | 44 | 61 | 37 | 285 |
+| 90d | 2026-08-10 | 8 | 250 | 63 | 77 | 46 | 334 |
+| last180d | 2026-05-12 | 20 | 475 | 92 | 143 | 68 | 602 |
+| 360d | 2025-11-13 | 35 | 863 | 144 | 269 | 131 | 1052 |
+| last720d | 2024-11-18 | 71 | 1427 | 167 | 580 | 254 | 1095 |
 
 ## Release assets
 
@@ -183,7 +183,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **47** distros on [repology.org](https://repology.org/project/jupyterlab). **2** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
+Reported by **48** distros on [repology.org](https://repology.org/project/jupyterlab). **4** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -192,7 +192,7 @@ Reported by **47** distros on [repology.org](https://repology.org/project/jupyte
 | Debian 13 | `4.0.11+~cs11.25.27` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `4.0.11+~cs11.25.27` | ⚠️ outdated |
 | Arch | `4.6.6` | ✅ latest |
-| Homebrew | `4.6.5` | ⚠️ outdated |
+| Homebrew | `4.6.6` | ✅ latest |
 | Fedora rawhide | `4.6.3` | ⚠️ outdated |
 | Void | `4.4.10` | ⚠️ outdated |
 | Alpine edge | `4.5.8` | ⚠️ outdated |
@@ -206,4 +206,4 @@ Install metadata for jupyterlab lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:16:16Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:15:06Z._
