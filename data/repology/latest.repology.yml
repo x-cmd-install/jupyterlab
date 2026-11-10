@@ -1,3 +1,13 @@
+- repo: slackbuilds
+  srcname: development/jupyterlab
+  visiblename: development/jupyterlab
+  version: 4.5.11
+  origversion: null
+  status: outdated
+  maintainers:
+    - isaacyu@protonmail.com
+  categories:
+    - development
 - repo: alpine_3_24
   subrepo: community
   srcname: jupyterlab
@@ -135,9 +145,9 @@
   srcname: jupyterlab
   binname: jupyterlab
   visiblename: jupyterlab
-  version: 4.6.5
-  origversion: 4.6.5-1
-  status: outdated
+  version: 4.6.6
+  origversion: 4.6.6-1
+  status: newest
   summary: JupyterLab computational environment
   licenses:
     - LicenseRef-JupyterLab
@@ -175,16 +185,22 @@
   summary: JupyterLab computational environment
   licenses:
     - LicenseRef-JupyterLab
-- repo: slackbuilds
-  srcname: development/jupyterlab
-  visiblename: development/jupyterlab
-  version: 4.5.11
-  origversion: null
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: jupyterlab
+  binnames:
+    - jupyterlab
+  visiblename: jupyterlab
+  version: 4.0.11+~cs11.25.27
+  origversion: 4.0.11+ds1+~cs11.25.27-7
   status: outdated
   maintainers:
-    - isaacyu@protonmail.com
+    - debian-pan-maintainers@alioth-lists.debian.net
+    - lolando@debian.org
+    - yadd@debian.org
   categories:
-    - development
+    - misc
+  vulnerable: true
 - repo: alpine_3_23
   subrepo: community
   srcname: jupyterlab
@@ -198,6 +214,22 @@
     - achill@achill.org
   licenses:
     - BSD-3-Clause
+  vulnerable: true
+- repo: parrot
+  subrepo: parrot/main
+  srcname: jupyterlab
+  binnames:
+    - jupyterlab
+  visiblename: jupyterlab
+  version: 4.0.11+~cs11.25.27
+  origversion: 4.0.11+ds1+~cs11.25.27-7
+  status: outdated
+  maintainers:
+    - debian-pan-maintainers@alioth-lists.debian.net
+    - lolando@debian.org
+    - yadd@debian.org
+  categories:
+    - misc
   vulnerable: true
 - repo: apertis_v2026
   subrepo: v2026/development
@@ -309,21 +341,6 @@
     - Unspecified
   vulnerable: true
 - repo: fedora_39
-  subrepo: updates
-  srcname: jupyterlab
-  binnames:
-    - jupyterlab
-  visiblename: jupyterlab
-  version: 4.0.11
-  origversion: 4.0.11-1.fc39
-  status: outdated
-  summary: JupyterLab computational environment
-  licenses:
-    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND (CC-BY-4.0 AND OFL-1.1 AND MIT) AND ISC AND MIT AND Unlicense
-  categories:
-    - Unspecified
-  vulnerable: true
-- repo: fedora_39
   subrepo: release
   srcname: jupyterlab
   binnames:
@@ -338,21 +355,20 @@
   categories:
     - Unspecified
   vulnerable: true
-- repo: parrot
-  subrepo: parrot-updates/main
+- repo: fedora_39
+  subrepo: updates
   srcname: jupyterlab
   binnames:
     - jupyterlab
   visiblename: jupyterlab
-  version: 4.0.11+~cs11.25.27
-  origversion: 4.0.11+ds1+~cs11.25.27-7
+  version: 4.0.11
+  origversion: 4.0.11-1.fc39
   status: outdated
-  maintainers:
-    - debian-pan-maintainers@alioth-lists.debian.net
-    - lolando@debian.org
-    - yadd@debian.org
+  summary: JupyterLab computational environment
+  licenses:
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND (CC-BY-4.0 AND OFL-1.1 AND MIT) AND ISC AND MIT AND Unlicense
   categories:
-    - misc
+    - Unspecified
   vulnerable: true
 - repo: fedora_40
   subrepo: updates
@@ -429,6 +445,22 @@
   categories:
     - Unspecified
   vulnerable: true
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: jupyterlab
+  binnames:
+    - jupyterlab
+  visiblename: jupyterlab
+  version: 4.0.11+~cs11.25.27
+  origversion: 4.0.11+ds1+~cs11.25.27-7
+  status: outdated
+  maintainers:
+    - debian-pan-maintainers@alioth-lists.debian.net
+    - lolando@debian.org
+    - yadd@debian.org
+  categories:
+    - javascript
+  vulnerable: true
 - repo: fedora_42
   subrepo: release
   srcname: jupyterlab
@@ -445,21 +477,6 @@
     - Unspecified
   vulnerable: true
 - repo: fedora_43
-  subrepo: updates
-  srcname: jupyterlab
-  binnames:
-    - jupyterlab
-  visiblename: jupyterlab
-  version: 4.4.10
-  origversion: 4.4.10-2.fc43
-  status: outdated
-  summary: JupyterLab computational environment
-  licenses:
-    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND (CC-BY-4.0 AND OFL-1.1 AND MIT) AND EPL-2.0 AND ISC AND (MPL-2.0 OR Apache-2.0) AND MIT AND Unlicense
-  categories:
-    - Unspecified
-  vulnerable: true
-- repo: fedora_43
   subrepo: release
   srcname: jupyterlab
   binnames:
@@ -468,6 +485,21 @@
   version: 4.4.9
   origversion: 4.4.9-1.fc43
   status: legacy
+  summary: JupyterLab computational environment
+  licenses:
+    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND (CC-BY-4.0 AND OFL-1.1 AND MIT) AND EPL-2.0 AND ISC AND (MPL-2.0 OR Apache-2.0) AND MIT AND Unlicense
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_43
+  subrepo: updates
+  srcname: jupyterlab
+  binnames:
+    - jupyterlab
+  visiblename: jupyterlab
+  version: 4.4.10
+  origversion: 4.4.10-2.fc43
+  status: outdated
   summary: JupyterLab computational environment
   licenses:
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND (CC-BY-4.0 AND OFL-1.1 AND MIT) AND EPL-2.0 AND ISC AND (MPL-2.0 OR Apache-2.0) AND MIT AND Unlicense
@@ -505,38 +537,6 @@
     - yadd@debian.org
   categories:
     - misc
-  vulnerable: true
-- repo: parrot
-  subrepo: parrot/main
-  srcname: jupyterlab
-  binnames:
-    - jupyterlab
-  visiblename: jupyterlab
-  version: 4.0.11+~cs11.25.27
-  origversion: 4.0.11+ds1+~cs11.25.27-7
-  status: outdated
-  maintainers:
-    - debian-pan-maintainers@alioth-lists.debian.net
-    - lolando@debian.org
-    - yadd@debian.org
-  categories:
-    - misc
-  vulnerable: true
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: jupyterlab
-  binnames:
-    - jupyterlab
-  visiblename: jupyterlab
-  version: 4.0.11+~cs11.25.27
-  origversion: 4.0.11+ds1+~cs11.25.27-7
-  status: outdated
-  maintainers:
-    - debian-pan-maintainers@alioth-lists.debian.net
-    - lolando@debian.org
-    - yadd@debian.org
-  categories:
-    - javascript
   vulnerable: true
 - repo: raspbian_stable
   subrepo: main
