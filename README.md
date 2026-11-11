@@ -14,11 +14,11 @@ x install jupyterlab
 
 ## Code insight
 
-Total: **299,551** lines of code across **1851** files in the top 5 languages.
+Total: **299,741** lines of code across **1851** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 206,512 | 59,291 | 30,684 | 942 |
+| TypeScript | 206,702 | 59,301 | 30,724 | 942 |
 | Json | 31,895 | 0 | 5 | 505 |
 | Tsx | 28,914 | 8,376 | 3,639 | 99 |
 | Python | 11,848 | 691 | 2,502 | 83 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,394 · **Forks**: 4,158 · **Open issues**: 9,388 · **Contributors**: 698
+- **Stars**: 15,397 · **Forks**: 4,163 · **Open issues**: 9,388 · **Contributors**: 699
 
 ## Totals (cumulative)
 
-- **Releases**: 288 · **Merged PRs**: 8874 · **Open PRs**: 204 · **Closed issues**: 7016 · **Open issues**: 2372 · **Commits**: 27310
+- **Releases**: 288 · **Merged PRs**: 8876 · **Open PRs**: 207 · **Closed issues**: 7016 · **Open issues**: 2372 · **Commits**: 27311
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 4 | 132 | 31 | 34 | 21 | 228 |
-| last60d | 2026-09-11 | 7 | 205 | 48 | 61 | 35 | 302 |
-| 90d | 2026-08-12 | 7 | 252 | 65 | 78 | 44 | 351 |
-| last180d | 2026-05-14 | 20 | 481 | 95 | 144 | 67 | 619 |
-| 360d | 2025-11-15 | 34 | 873 | 146 | 271 | 129 | 1069 |
-| last720d | 2024-11-20 | 70 | 1436 | 169 | 580 | 251 | 1103 |
+| 30d | 2026-10-12 | 4 | 131 | 34 | 32 | 21 | 230 |
+| last60d | 2026-09-12 | 7 | 205 | 52 | 61 | 34 | 304 |
+| 90d | 2026-08-13 | 7 | 252 | 68 | 77 | 44 | 353 |
+| last180d | 2026-05-15 | 20 | 479 | 97 | 142 | 66 | 621 |
+| 360d | 2025-11-16 | 34 | 875 | 149 | 271 | 128 | 1071 |
+| last720d | 2024-11-21 | 70 | 1436 | 172 | 578 | 249 | 1103 |
 
 ## Release assets
 
@@ -206,4 +206,4 @@ Install metadata for jupyterlab lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T09:00:46Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:48:23Z._
