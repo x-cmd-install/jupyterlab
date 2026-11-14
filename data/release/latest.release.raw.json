@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 11685,
       "digest": "sha256:3cb90322044bfce3970f776d835749390a04dbb55a1a309da2aecdb711df1a41",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-11-06T14:01:13Z",
       "updated_at": "2026-11-06T14:01:13Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/asset_shas.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 17334944,
       "digest": "sha256:4261910ccf1ecad6e0b3ca0debe96d4fde9735bfc9707509c125aab850e06b81",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-11-06T14:01:00Z",
       "updated_at": "2026-11-06T14:01:01Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-4.6.6-py3-none-any.whl"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 28406802,
       "digest": "sha256:5f6fbb409158167aeefb5781d6f0b228e24b493cb6e6f1320fb5bc8897acc223",
-      "download_count": 21,
+      "download_count": 23,
       "created_at": "2026-11-06T14:00:46Z",
       "updated_at": "2026-11-06T14:00:48Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-4.6.6.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 11759,
       "digest": "sha256:90fcb9f47129b90da3dca8c0a9aab973d402085501ac4154a21b771f98876259",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-06T13:59:21Z",
       "updated_at": "2026-11-06T13:59:21Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-csvviewer-extension-4.6.6.tgz"
@@ -2839,7 +2839,7 @@
       "state": "uploaded",
       "size": 4387,
       "digest": "sha256:06904dd1cf524c62e96512641767120d34157cbaebc7672028df134d2e232a54",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-06T13:59:19Z",
       "updated_at": "2026-11-06T13:59:19Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-rendermime-extension-4.6.6.tgz"
@@ -3703,7 +3703,7 @@
       "state": "uploaded",
       "size": 6991,
       "digest": "sha256:4112c90b865d58658f9c6d45b930f01f1ec84592be0d7ccdeea2d199179f5207",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-06T13:59:20Z",
       "updated_at": "2026-11-06T13:59:20Z",
       "browser_download_url": "https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-tooltip-extension-4.6.6.tgz"
