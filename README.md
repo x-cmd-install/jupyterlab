@@ -14,15 +14,15 @@ x install jupyterlab
 
 ## Code insight
 
-Total: **303,768** lines of code across **1866** files in the top 5 languages.
+Total: **304,679** lines of code across **1866** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 210,269 | 59,735 | 31,112 | 957 |
-| Json | 31,832 | 0 | 5 | 504 |
-| Tsx | 29,509 | 8,474 | 3,686 | 100 |
+| TypeScript | 210,582 | 59,761 | 31,152 | 957 |
+| Json | 31,845 | 0 | 5 | 504 |
+| Tsx | 30,052 | 8,527 | 3,751 | 100 |
 | Python | 11,702 | 683 | 2,500 | 83 |
-| Css | 11,554 | 2,178 | 2,499 | 222 |
+| Css | 11,590 | 2,178 | 2,505 | 222 |
 
 ## OpenSSF Scorecard
 
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v4.7.0b1` (2026-11-06)
-- **Last commit**: 2026-11-15
+- **Latest**: `v4.7.0b2` (2026-11-06)
+- **Last commit**: 2026-11-17
 - **Assets in release**: 111
 
 ## Popularity
 
-- **Stars**: 15,405 · **Forks**: 4,172 · **Open issues**: 9,405 · **Contributors**: 707
+- **Stars**: 15,405 · **Forks**: 4,174 · **Open issues**: 9,407 · **Contributors**: 710
 
 ## Totals (cumulative)
 
-- **Releases**: 288 · **Merged PRs**: 8932 · **Open PRs**: 169 · **Closed issues**: 7074 · **Open issues**: 2331 · **Commits**: 27354
+- **Releases**: 289 · **Merged PRs**: 8939 · **Open PRs**: 167 · **Closed issues**: 7079 · **Open issues**: 2328 · **Commits**: 27361
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 4 | 164 | 29 | 43 | 21 | 293 |
-| last60d | 2026-09-17 | 7 | 245 | 41 | 74 | 33 | 364 |
-| 90d | 2026-08-18 | 7 | 295 | 50 | 91 | 41 | 432 |
-| last180d | 2026-05-20 | 20 | 519 | 75 | 157 | 64 | 648 |
-| 360d | 2025-11-21 | 33 | 924 | 120 | 293 | 118 | 1148 |
-| last720d | 2024-11-26 | 70 | 1483 | 143 | 604 | 234 | 1144 |
+| 30d | 2026-10-18 | 5 | 168 | 31 | 43 | 22 | 305 |
+| last60d | 2026-09-18 | 8 | 248 | 43 | 75 | 34 | 376 |
+| 90d | 2026-08-19 | 8 | 297 | 51 | 92 | 42 | 444 |
+| last180d | 2026-05-21 | 20 | 519 | 74 | 155 | 63 | 660 |
+| 360d | 2025-11-22 | 34 | 930 | 118 | 296 | 117 | 1160 |
+| last720d | 2024-11-27 | 71 | 1484 | 141 | 607 | 233 | 1148 |
 
 ## Release assets
 
@@ -181,22 +181,6 @@ Lowest-scoring checks:
 | [jupyterlab-workspaces-extension-4.6.6.tgz](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/jupyterlab-workspaces-extension-4.6.6.tgz) | 20.9 KiB | `native/unknown` |
 | [metadata.json](https://github.com/jupyterlab/jupyterlab/releases/download/v4.6.6/metadata.json) | 331 B | `other` |
 
-## Distribution status
-
-Reported by **48** distros on [repology.org](https://repology.org/project/jupyterlab). **6** are ✅ on the latest upstream release, **35** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `4.4.10+~3.1.0+~0.16.6+~cs1.4.4` | ⚠️ outdated |
-| Debian 14 | `4.4.10+~3.1.0+~0.16.6+~cs1.4.4` | ⚠️ outdated |
-| Debian 13 | `4.0.11+~cs11.25.27` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `4.0.11+~cs11.25.27` | ⚠️ outdated |
-| Arch | `4.6.6` | ✅ latest |
-| Homebrew | `4.6.6` | ✅ latest |
-| Fedora rawhide | `4.6.3` | ⚠️ outdated |
-| Void | `4.4.10` | ⚠️ outdated |
-| Alpine edge | `4.5.8` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for jupyterlab lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jupyterlab` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -206,4 +190,4 @@ Install metadata for jupyterlab lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:37:53Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:24:09Z._
